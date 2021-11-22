@@ -2,7 +2,7 @@ import json
 
 # with open('YA_token', 'r') as file_object:
 #     TOKEN = file_object.read().strip()
-token = 'AQAAAAACqO8-AADLW-NK9EKHw0KsnjeE07u3K8I'
+token = ''
 import requests
 
 url = 'https://cloud-api.yandex.net/v1/disk/'
